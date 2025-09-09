@@ -16,10 +16,15 @@ As atividades foram desenvolvidas em dupla por:
 ## 📂 Estrutura do Repositório
 
 Cada pasta neste repositório corresponde a um laboratório da disciplina:
+
 /
+
 ├── Lab1/
+
 ├── Lab2/
+
 ├── Lab3/
+
 ...
 
 Dentro de cada diretório você encontrará os códigos-fonte, referente ao laboratório em questão.
