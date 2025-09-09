@@ -14,9 +14,13 @@ As operações implementadas são:
 
 ## 📂 Estrutura do projeto 
 /
+
 ├── src/
+
 │   ├── Principal_v0.java   # Código principal com as operações de leitura e escrita
+
 │   └── fortune-br.txt      # Arquivo com a base de fortunas
+
 └── README.md               # Este arquivo
 
 --- 
@@ -40,6 +44,7 @@ O programa irá executar as operações de leitura e escrita na sequência, conf
 ## 👥 Equipe
 
 João Pedro Neigri Heleno - RA: 2270323
+
 Maria Eduarda Soares Romana Silva - RA: 2408830
 
 ---
@@ -47,8 +52,11 @@ Maria Eduarda Soares Romana Silva - RA: 2408830
 ## 📖 Disciplina
 
 Nome: Sistemas Distribuídos
+
 Professor: Prof. Dr. Lúcio Rocha
+
 Instituição: UTFPR - Câmpus Apucarana
+
 Período: 2025.1
 
 ---
